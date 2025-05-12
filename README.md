@@ -3,6 +3,7 @@
 ## Overview
 
 This project demonstrates how to integrate the TradingView API into a web application using JavaScript, HTML, and CSS to display real-time financial market data. The integration allows users to view charts, analyze technical indicators, and receive live updates from various financial markets.
+website: https://trading-api-javascript.netlify.app/
 
 ## Getting Started
 
@@ -59,6 +60,7 @@ Feel free to customize the project to suit your needs. You can modify the HTML, 
 
 - [TradingView Charting Library Documentation](https://github.com/tradingview/charting-library-docs)
 - [TradingView API Documentation](https://www.tradingview.com/rest-api-specification/)
+- **[API charts](https://chart-img.com/)**
 
 ## License
 
